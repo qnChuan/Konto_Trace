@@ -18,7 +18,7 @@ Um dieses Tool zu installieren und auszufuehren, sollte man wie folgt vorgehen:
 6. Fuehren abschliessend das Skript **report.R** aus, um die Finanzberichte zu generieren.
    > In diesem Ordner sollte dementsprechend eine neue .pdf Datei generiert werden, in dem sich ein paar schoene Diagramme befinden sollten.
 
-![Beispiel Bericht](/Users/a11/Desktop/GitHub/Konto_Trace/beispiel.png)
+![Beispiel Bericht](qnChuan/Konto_Trace/beispiel.png)
 
 ## Mitwirkung und Kontakt
 
